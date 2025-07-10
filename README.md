@@ -5,7 +5,7 @@
 
 <div align="center">
 
-### 👋 Hey, I'm <span style="color:#FFD700;">F3lip32010</span>!
+### 👋 Hey, I'm <span style="color:#FFD700;">TECHLYSTB</span>!
 
 💻 <strong>Front-end developer</strong> passionate about building sleek, modern web interfaces.  
 📚 Currently mastering <strong>JavaScript</strong> and diving deep into <strong>React & TypeScript</strong>.
